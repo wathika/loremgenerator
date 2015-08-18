@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "Loremgenerator/cli"
+
+Loremgenerator::CLI.start
